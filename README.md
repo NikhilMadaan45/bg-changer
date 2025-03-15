@@ -10,7 +10,7 @@ This is a simple React project where clicking on a button changes the background
 
 ## Installation
 ### 1.Clone the repository:
-```git clone https://github.com/yourusername/color-change-buttons.git```
+```git clone https://github.com/NikhilMadaan45/bg-changer```
 ### 2.Navigate to the project directory:
 ```cd color-change-buttons```
 ### 3.Install dependencies:
